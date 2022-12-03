@@ -1,0 +1,34 @@
+.header-bg {
+    background-color: #E9ECEF;
+    margin: auto;
+}
+
+header{
+    margin: 0px;
+    padding: 0px;
+    height: 20em;
+    background-color: #C0C0C0;
+  }
+
+
+a {
+  color: floralwhite
+}
+
+a:hover {
+    color: slategray ;
+  }
+
+
+header a:hover {
+    text-decoration: none;
+    color: gray;
+}
+
+bg-white {
+  background-color: white;
+}
+
+bg-gray {
+  background-color: gray;
+}
